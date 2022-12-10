@@ -26,7 +26,7 @@ export default function Featured({ type }) {
         </div>
       )}
       <img
-        src="https://images.pexels.com/photos/6899260/pexels-photo-6899260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/09/wednesday-netflix-poster.jpeg"
         alt=""
       />
       <div className="info">
